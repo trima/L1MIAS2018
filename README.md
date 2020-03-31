@@ -1,6 +1,7 @@
 ## Introduction à la programmation MIAS L1 2017-2018
 
 Les series de TP sont sous format PDF sur ce repertoire.
+*Solutions et serie2 sur demande
 
 ## Prérequis
 
@@ -9,14 +10,13 @@ Pour Windows, [c'est par ici](https://www.freepascal.org/down/x86_64/win64.html)
 
 Les solutions sont en pascal (d'après le chef de département c'est une obligation ministérielle, sigh).
 
-*Solutions et serie2 sur demande
-
+## Agenda
 | Semaine | Series | Ref | Exos | Solutions |
 | :---: | :---: | :---: | :---: | :---: | 
 | 1 | [#1](./series/1.pdf) | Clavier/Ecran | 1 | - |
 | 2 | - | Variables et Types | 2 | - |
-| 3 | - | Structure de contrôle | 3 | - |
-| 4 | - | Structure de contrôle | 4 | - |
+| 3 | - | Structures de contrôle | 3 | - |
+| 4 | - | Structures de contrôle | 4 | - |
 | 5 | - | Boucles | 5 | - |
 | 6 | - | Boucles | 6 | - |
 | 7 | - | Boucles | 6 |	- |
