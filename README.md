@@ -4,11 +4,12 @@ Les series de TP sont sous format PDF sur ce repertoire.
 
 ## Prérequis
 
-Installer freepascal [https://www.freepascal.org/download.html], suivant votre type de machine et OS. 
-Pour Windows, c'est par ici [https://www.freepascal.org/down/x86_64/win64.html]
+Installer [freepascal](https://www.freepascal.org/download.html), suivant votre type de machine et OS. 
+Pour Windows, [c'est par ici](https://www.freepascal.org/down/x86_64/win64.html).
 
 Les solutions sont en pascal (d'après le chef de département c'est une obligation ministérielle, sigh).
 
+*Solutions et serie2 sur demande
 
 | Series| Semaine | Ref | Exos | Solutions |
 | :---: | :---: | :---: | :---: | :---: | 
